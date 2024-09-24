@@ -2,7 +2,7 @@
   "name": "brand-colors-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/ArzuEceAy/brand-colors",
+  "homepage": "https://arzueceaydemir.com/brand-colors/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
