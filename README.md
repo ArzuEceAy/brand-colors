@@ -13,6 +13,7 @@ This project is an attempt to clone the [BrandColors](https://brandcolors.net/) 
 - HTML
 - CSS
 - JavaScript
+- React
 
 ## Installation
 
